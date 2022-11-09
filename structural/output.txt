@@ -1,0 +1,15 @@
+================================
+Monji Arase takes care of the total perioperative care of patients before, during and after surgery.    
+Monji's price is 10200.0
+Miki Satohara assists other healthcare professionals.
+Monji Arase takes care of the total perioperative care of patients before, during and after surgery.    
+Keisuke Fujiyoshi treats the disorders of the heart.
+Ryutarou Asada performs a surgery.
+Before Monji leaves, the total price of the Team Medical Dragon is 13700.0
+After Monji leaves, The total price of the Team Medical Dragon is 3500.0
+================================
+Michiko Daimon performs a surgery.
+Hideki Kaji performs a surgery.
+Hiromi Jonouchi takes care of the total perioperative care of patients before, during and after surgery.The total price of doctor X team is 40300.0
+================================
+The total price of the healthcare series is 43800.0
